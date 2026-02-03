@@ -1,4 +1,4 @@
-# WEB ATELIER (UDIT) – Student Project Template
+# MI PORTFOLIO – Michelle Gallardo Díez
 
 _Critical Coding for a Better Living._
 
